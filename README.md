@@ -15,7 +15,7 @@
   <br />
 </div>
 
-## 📋 Table of Contents
+## Table of Contents
 
 1. [Introduction](#introduction)
 2. [Tech Stack](#tech-stack)
@@ -25,19 +25,19 @@
 6. [Roadmap](#roadmap)
 7. [License](#license)
 
-## 🚀 Introduction
+## Introduction
 
 **TREZZA PROTOCOL** is revolutionizing the payment system by eliminating transaction fees. We're building a decentralized Layer 1 blockchain ecosystem on the Solana network designed to process the world's transactions, empowering merchants and users alike to engage in seamless, cost-free exchanges.
 
 **Key Highlights:**
-- 🌐 Decentralized L1 blockchain for global transaction processing
-- 💰 Zero transaction fees for merchants and users
-- 🏪 Payment portal for cost-free financial transactions
-- 🖥️ Native Rust POS (Point of Sale) terminal integration
-- 📍 Phase 1 launching in Austin, Texas with local merchants and small businesses
-- 🎁 Airdrop program for early community members
+-  Decentralized L1 blockchain for global transaction processing
+-  Zero transaction fees for merchants and users
+- Payment portal for cost-free financial transactions
+-  Native Rust POS (Point of Sale) terminal integration
+-  Phase 1 launching in Austin, Texas with local merchants and small businesses
+-  Airdrop program for early community members
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **React.js** - Modern UI framework
@@ -49,7 +49,7 @@
 - **Solana Network** - High-performance blockchain infrastructure
 - **Rust** - Native POS and smart contract development
 
-## 🔋 Features
+##  Features
 
 ### Website Features
 
@@ -67,17 +67,17 @@
 
 ### Protocol Features
 
-💎 **TREZZA L1 Blockchain** - Decentralized Layer 1 blockchain designed to process global transactions
+ **TREZZA L1 Blockchain** - Decentralized Layer 1 blockchain designed to process global transactions
 
-💳 **Payment Portal** - Zero-fee payment processing system for merchants and consumers
+ **Payment Portal** - Zero-fee payment processing system for merchants and consumers
 
-🏪 **TREZZA Terminal** - Rust-native POS system for physical and online merchants
+ **TREZZA Terminal** - Rust-native POS system for physical and online merchants
 
-🎟️ **Token Rewards** - Qualify and join to receive 1 million TREZZA tokens
+ **Token Rewards** - Qualify and join to receive 1 million TREZZA tokens
 
-🤝 **Partnership Program** - Become a TREZZA Protocol partner and shape the future of transactions
+ **Partnership Program** - Become a TREZZA Protocol partner and shape the future of transactions
 
-## 🤸 Quick Start
+## Quick Start
 
 Follow these steps to set up the project locally on your machine.
 
@@ -159,30 +159,30 @@ trezza-v1/
 └── README.md
 ```
 
-## 🗺️ Roadmap
+##  Roadmap
 
 ### Phase 1: Austin, Texas Launch
-- ✅ Website development
-- 🔄 Merchant onboarding in Austin
-- 🔄 Small business integration
-- 📅 Community building and partnerships
+-  Website development
+-  Merchant onboarding in Austin
+-  Small business integration
+-  Community building and partnerships
 
 ### Phase 2: Blockchain Development
-- 🔄 TREZZA L1 blockchain development on Solana
-- 🔄 Smart contract deployment
-- 📅 Token airdrop program
+-  TREZZA L1 blockchain development on Solana
+-  Smart contract deployment
+-  Token airdrop program
 
 ### Phase 3: Terminal & POS
-- 🔄 Rust-native POS terminal development
-- 📅 Merchant terminal distribution
-- 📅 Payment portal integration
+-  Rust-native POS terminal development
+-  Merchant terminal distribution
+-  Payment portal integration
 
 ### Phase 4: Expansion
-- 📅 Multi-city expansion
-- 📅 International merchant network
-- 📅 Advanced DeFi features
+-  Multi-city expansion
+-  International merchant network
+-  Advanced DeFi features
 
-## 🎯 Join the Evolution
+##  Join the Evolution
 
 Interested in becoming part of the TREZZA ecosystem?
 
